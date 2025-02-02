@@ -1,0 +1,4 @@
+Simple python GUI based game made with turtle module and oops concepts.
+This game is to simply cross the turtle across the road while vehicles are moving.
+Speed of vehicles increase upon crossing one level each time.
+Execute using main.py.

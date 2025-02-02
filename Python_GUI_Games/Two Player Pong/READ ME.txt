@@ -1,0 +1,4 @@
+Simple pong game made using python GUI turtle module and oops concepts.
+It's a two player pong game, right paddle is controlled with the help of arrows and left one is controlled using w and s keys.
+upon successfully hitting the ball the speed of the ball increase each time, if missed then the score will get reset and a new game will start.
+Execute using Pong.py.

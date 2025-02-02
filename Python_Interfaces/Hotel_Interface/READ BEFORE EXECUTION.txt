@@ -1,0 +1,5 @@
+This is a intermediate python project showing the working of a hotel booking website demo.
+The data included are collected from real sources and some are generated.
+This is just a demo and not for any production purpose.
+This project uses the concepts of python file handling and module programming.
+To start with it run the project.py file, press 1 to login and enter username as Demo and password as Demo123 or else create your own account by pressing 2.

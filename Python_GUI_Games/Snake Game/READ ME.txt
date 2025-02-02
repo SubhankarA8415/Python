@@ -1,0 +1,4 @@
+Simple snake and food game based on python turtle module.
+Made using python oops concepts and turtle module for GUI.
+As long as you go on eating the food the snake will grow in length, upon collision with wall or its own body the game will get over an start from new.
+Execute using the Snake_Game.py.

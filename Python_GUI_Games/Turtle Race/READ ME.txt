@@ -1,0 +1,3 @@
+Simple turtle race game made using python GUI turtle module an oops concepts.
+Select turtle of any color upon starting the module and the turtles will automatically run up to finish line and the first turtle to reach will be the winner.
+Colors available: red, orange, yellow, green, blue, purple.
