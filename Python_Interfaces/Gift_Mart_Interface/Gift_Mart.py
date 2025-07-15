@@ -213,36 +213,36 @@ Press 3 to proceed to payment'''))
                         c=int(input("enter your gift choice:"))
                         if c==107:
                             cartin(c)
-                            print("Your item is added to cart sucessfully!!")
+                            print("Your item is added to cart successfully!!")
                             
                             
                         elif c==108:
                             cartin(c)
-                            print("Your item is added to cart sucessfully!!")
+                            print("Your item is added to cart successfully!!")
                             
                             
                         elif c==109:
                             cartin(c)    
-                            print("Your item is added to cart sucessfully!!")
+                            print("Your item is added to cart successfully!!")
                             
                             
                         elif c==110:
                             cartin(c)
-                            print("Your item is added to cart sucessfully!!")
+                            print("Your item is added to cart successfully!!")
                             
                             
                         elif c==111:
                             cartin(c)
-                            print("Your item is added to cart sucessfully!!")
+                            print("Your item is added to cart successfully!!")
                             
                             
                         elif c==112:
-                            print("Your item is added to cart sucessfully!!")
+                            print("Your item is added to cart successfully!!")
                             
                             
                         elif c==113:
                             cartin(c)    
-                            print("Your item is added to cart sucessfully!!")
+                            print("Your item is added to cart successfully!!")
                         choice=int(input('''Whether you want to add more items to cart from this category or proceed to payment ??
 Press 1 to continue
 Press 2 to exit and see other categories
@@ -383,47 +383,47 @@ Press 3 to proceed to payment'''))
                         
                     elif c==135:
                         cartin(c)
-                        print("Your item is added to cart sucessfully!!")
+                        print("Your item is added to cart successfully!!")
                         
                         
                     elif c==136:
                         cartin(c)
-                        print("Your item is added to cart sucessfully!!")
+                        print("Your item is added to cart successfully!!")
                         
                         
                     elif c==137:
                         cartin(c)
-                        print("Your item is added to cart sucessfully!!")
+                        print("Your item is added to cart successfully!!")
                         
                         
                     elif c==138:
                         cartin(c)
-                        print("Your item is added to cart sucessfully!!")
+                        print("Your item is added to cart successfully!!")
                         
                         
                     elif c==139:
                         cartin(c)
-                        print("Your item is added to cart sucessfully!!")
+                        print("Your item is added to cart successfully!!")
                         
                         
                     elif c==140:
                         cartin(c)
-                        print("Your item is added to cart sucessfully!!")
+                        print("Your item is added to cart successfully!!")
                         
                         
                     elif c==141:
                         cartin(c)
-                        print("Your item is added to cart sucessfully!!")
+                        print("Your item is added to cart successfully!!")
                         
                         
                     elif c==142:
                         cartin(c)
-                        print("Your item is added to cart sucessfully!!")
+                        print("Your item is added to cart successfully!!")
                         
                         
                     elif c==143:
                         cartin(c)
-                        print("Your item is added to cart sucessfully!!")
+                        print("Your item is added to cart successfully!!")
                         
                         
                     else:
