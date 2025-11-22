@@ -91,8 +91,3 @@ Fun, interactive games created using the **turtle module**.
 - Loops & Logic  
 - Functions & Scope  
 - Modular Code Structure  
-
----
-
-# 📁 Repository Structure (Recommended)
-
