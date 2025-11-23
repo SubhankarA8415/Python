@@ -91,3 +91,12 @@ Fun, interactive games created using the **turtle module**.
 - Loops & Logic  
 - Functions & Scope  
 - Modular Code Structure  
+
+---
+
+## 📞 Contact
+
+**Subhankar Pandit**  
+**Full Stack Developer | Backend Engineer | AI/ML**  
+**GitHub**: https://github.com/SubhankarA8415  
+**LinkedIn**: https://linkedin.com/in/subhankar-pandit   
